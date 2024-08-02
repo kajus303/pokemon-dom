@@ -1,4 +1,4 @@
-# Pokemonai
+# Pokemon
 
 A simple web application to display information about different Pokémon. This project uses HTML, CSS, and JavaScript to create a responsive grid of Pokémon cards.
 
